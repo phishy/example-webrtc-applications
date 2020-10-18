@@ -1,3 +1,3 @@
-module github.com/pion/example-webrtc-applications
+module github.com/phishy/example-webrtc-applications
 
 go 1.13
